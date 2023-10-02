@@ -1,0 +1,9 @@
+../Core/Src/main.c:108:7:max	4
+../Core/Src/main.c:67:5:main	2
+../Core/Src/main.c:126:8:forward	1
+../Core/Src/main.c:135:8:spin	1
+../Core/Src/main.c:145:8:goRight	1
+../Core/Src/main.c:157:8:goLeft	1
+../Core/Src/main.c:171:8:check	6
+../Core/Src/main.c:240:6:SystemClock_Config	3
+../Core/Src/main.c:291:6:Error_Handler	1
